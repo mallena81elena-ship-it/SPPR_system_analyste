@@ -1,0 +1,7 @@
+# Зависимости прототипа СППР (магистерская)
+openai>=1.0.0
+gigachat>=0.1.30
+python-dotenv>=1.0.0
+matplotlib>=3.8.0
+streamlit>=1.32.0
+scikit-learn>=1.3.0

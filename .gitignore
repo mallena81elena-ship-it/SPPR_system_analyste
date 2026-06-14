@@ -1,0 +1,27 @@
+# local secrets
+.env
+*.env
+
+# corporate/raw data excluded from public repository
+data/
+orders/
+*.json
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.pdf
+confluence_*.md
+*jira*
+
+# python/cache
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
